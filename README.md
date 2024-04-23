@@ -13,8 +13,11 @@ The main objective of this project is to demonstrate the capabilities of LSTM ne
 The model architecture consists of an LSTM layer followed by a softmax activation function in the output layer. The model is trained on a corpus of Shakespearean texts to learn the patterns and structure of his language.
 
 # Technologies Used:
+
 Python
+
 TensorFlow
+
 Keras
 
 # How it Works
